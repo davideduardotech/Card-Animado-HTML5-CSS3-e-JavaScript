@@ -15,7 +15,6 @@ body{
 }
 
 .container{
-    border: 1px solid #ffffff;
     position: relative;
     display: flex;
     flex-direction: row;
